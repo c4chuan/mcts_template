@@ -1,4 +1,5 @@
-config.yaml
 *.npy
 *.pdf
 tree.txt
+*.png
+.idea

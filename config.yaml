@@ -1,0 +1,8 @@
+Doc_parse:
+  api_key: "sk-xxxx"                # dashscope api key
+  name: "xxx.pdf"                   # 要解析的文档树
+  data_path: "./"                   # 文档树的所在目录
+  save_parse: True                  # 是否保存解析结果
+  load_parse: False                 # 是否load解析结果而不重新解析
+image_path: "./xxx.png"             # 由于示例是一个类似vqa的场景，所以会有一张参考图片
+dash_scope_api_key: "sk-xxxx"       # dashscope api key
