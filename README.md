@@ -1,0 +1,2 @@
+# mcts_template
+包含一个mcts抽象类，以及一个mcts实现文档树解析并实现规则搜索的例子
